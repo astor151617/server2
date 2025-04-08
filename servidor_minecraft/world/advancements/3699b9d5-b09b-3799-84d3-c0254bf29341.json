@@ -5,5 +5,11 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2025-04-08 00:51:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 2586
 }
