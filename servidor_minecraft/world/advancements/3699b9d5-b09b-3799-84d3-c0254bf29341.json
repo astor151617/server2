@@ -5,21 +5,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_double_plant": "2025-04-08 00:56:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-08 00:55:22 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "killed_by_something": "2025-04-08 00:56:35 +0000"
+      "in_water": "2025-04-08 01:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 01:19:14 +0000"
     },
     "done": true
   },
@@ -41,17 +41,58 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-04-08 00:42:05 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2025-04-08 00:51:46 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-04-08 00:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 01:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 01:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-08 00:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 01:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 01:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-04-08 00:42:05 +0000",
+      "minecraft:mountains": "2025-04-08 01:21:02 +0000",
+      "minecraft:desert": "2025-04-08 01:21:07 +0000",
+      "minecraft:river": "2025-04-08 01:19:14 +0000",
+      "minecraft:savanna": "2025-04-08 01:21:16 +0000",
+      "minecraft:plains": "2025-04-08 01:19:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 2586
 }
