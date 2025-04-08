@@ -122,3 +122,25 @@
 [00:55:10] [Server thread/INFO]: larii left the game
 [00:55:58] [Server thread/INFO]: larii[/127.11.40.241:47285] logged in with entity id 1783 at (-106.5, 69.0, -166.5)
 [00:55:58] [Server thread/INFO]: larii joined the game
+[00:56:13] [Server thread/INFO]: larii lost connection: Timed out
+[00:56:13] [Server thread/INFO]: larii left the game
+[00:56:13] [Server thread/WARN]: handleDisconnection() called twice
+[00:56:35] [Server thread/INFO]: Astor_13 was slain by Zombie
+[00:56:36] [Server thread/INFO]: larii[/127.11.40.241:36477] logged in with entity id 1856 at (-106.5, 69.0, -166.5)
+[00:56:36] [Server thread/INFO]: larii joined the game
+[00:56:47] [Server thread/INFO]: larii was slain by Zombie
+[00:56:51] [Server thread/INFO]: larii lost connection: Timed out
+[00:56:51] [Server thread/INFO]: larii left the game
+[00:57:01] [Server thread/INFO]: Astor_13 has made the advancement [Monster Hunter]
+[00:58:01] [Server thread/INFO]: Astor_13 lost connection: Disconnected
+[00:58:01] [Server thread/INFO]: Astor_13 left the game
+[00:58:38] [Server thread/INFO]: larii[/127.11.40.241:40489] logged in with entity id 2025 at (-106.5, 69.0, -166.5)
+[00:58:38] [Server thread/INFO]: larii joined the game
+[00:58:53] [Server thread/INFO]: larii lost connection: Timed out
+[00:58:53] [Server thread/INFO]: larii left the game
+[01:00:33] [Server thread/INFO]: larii[/127.11.40.241:39157] logged in with entity id 2062 at (-106.5, 69.0, -166.5)
+[01:00:33] [Server thread/INFO]: larii joined the game
+[01:00:48] [Server thread/INFO]: larii lost connection: Timed out
+[01:00:48] [Server thread/INFO]: larii left the game
+[01:02:06] [Server thread/INFO]: Astor_13[/127.102.78.54:57859] logged in with entity id 2101 at (-101.66347036642915, 69.0, -164.13199990516802)
+[01:02:06] [Server thread/INFO]: Astor_13 joined the game
