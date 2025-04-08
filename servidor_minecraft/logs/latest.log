@@ -172,3 +172,29 @@
 [01:24:37] [Server thread/INFO]: larii joined the game
 [01:24:52] [Server thread/INFO]: larii lost connection: Timed out
 [01:24:52] [Server thread/INFO]: larii left the game
+[01:26:15] [Server thread/INFO]: larii[/127.11.40.241:58959] logged in with entity id 5419 at (-105.25032774113458, 69.0, -169.2127544002966)
+[01:26:15] [Server thread/INFO]: larii joined the game
+[01:26:30] [Server thread/INFO]: larii lost connection: Timed out
+[01:26:30] [Server thread/INFO]: larii left the game
+[01:29:28] [Server thread/INFO]: Astor_13 was slain by Zombie
+[01:36:16] [Server thread/INFO]: Astor_13 was blown up by Creeper
+[01:39:19] [Server thread/WARN]: Astor_13 was kicked for floating too long!
+[01:39:19] [Server thread/INFO]: Astor_13 lost connection: Flying is not enabled on this server
+[01:39:19] [Server thread/INFO]: Astor_13 left the game
+[01:40:17] [Server thread/INFO]: Astor_13[/127.102.78.54:59431] logged in with entity id 8113 at (43.34717637973846, 74.25220334025373, -414.3945811454932)
+[01:40:17] [Server thread/INFO]: Astor_13 joined the game
+[01:43:43] [Server thread/INFO]: Astor_13 has made the advancement [Acquire Hardware]
+[01:44:10] [Server thread/INFO]: larii[/127.11.40.241:53097] logged in with entity id 9335 at (-105.25032774113458, 69.0, -169.2127544002966)
+[01:44:10] [Server thread/INFO]: larii joined the game
+[01:44:25] [Server thread/INFO]: larii lost connection: Timed out
+[01:44:25] [Server thread/INFO]: larii left the game
+[01:44:46] [Server thread/INFO]: larii[/127.11.40.241:46591] logged in with entity id 9493 at (-105.25032774113458, 69.0, -169.2127544002966)
+[01:44:46] [Server thread/INFO]: larii joined the game
+[01:45:01] [Server thread/INFO]: larii lost connection: Timed out
+[01:45:01] [Server thread/INFO]: larii left the game
+[01:45:15] [Server thread/INFO]: larii[/127.11.40.241:33257] logged in with entity id 9668 at (-93.37110002399476, 69.17675927506424, -159.2865976453326)
+[01:45:15] [Server thread/INFO]: larii joined the game
+[01:45:20] [Server thread/WARN]: larii was kicked for floating too long!
+[01:45:20] [Server thread/INFO]: larii lost connection: Flying is not enabled on this server
+[01:45:20] [Server thread/INFO]: larii left the game
+[01:45:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-422, y=64, z=-212} fx{x=-422, y=62, z=-211}

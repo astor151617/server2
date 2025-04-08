@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-08 01:37:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-08 01:19:14 +0000"
@@ -34,6 +40,12 @@
       "minecraft:zombie": "2025-04-08 00:57:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-08 01:22:44 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
@@ -65,9 +77,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-08 01:37:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-08 00:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-08 01:37:37 +0000"
     },
     "done": true
   },
@@ -87,7 +111,9 @@
     "criteria": {
       "minecraft:forest": "2025-04-08 00:42:05 +0000",
       "minecraft:mountains": "2025-04-08 01:21:02 +0000",
+      "minecraft:desert_hills": "2025-04-08 01:34:24 +0000",
       "minecraft:desert": "2025-04-08 01:21:07 +0000",
+      "minecraft:savanna_plateau": "2025-04-08 01:22:49 +0000",
       "minecraft:river": "2025-04-08 01:19:14 +0000",
       "minecraft:savanna": "2025-04-08 01:21:16 +0000",
       "minecraft:plains": "2025-04-08 01:19:25 +0000"
